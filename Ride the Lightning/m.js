@@ -1,0 +1,10 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Fight Fire with Fire.mp3";		
+f[2]	= "02 Ride the Lightning.mp3";		
+f[3]	= "03 For Whom the Bell Tolls.mp3";		
+f[4]	= "04 Fade to Black.mp3";		
+f[5]	= "05 Trapped Under Ice.mp3";		
+f[6]	= "06 Escape.mp3";		
+f[7]	= "07 Creeping Death.mp3";		
+f[8]	= "08 The Call of Ktulu.mp3";		
